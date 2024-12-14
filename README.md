@@ -1,5 +1,5 @@
  # **PWC Power BI Virtual work experience- Call Center Trends**
-                      ![image](https://github.com/user-attachments/assets/0156478e-5fd4-4af1-9319-23a4db043574)
+                     ![image](https://github.com/user-attachments/assets/87273912-9101-4962-b9f4-820ce716e31f)
 
 
 ## **Table of Contents**
@@ -77,13 +77,14 @@ These measures are designed to provide detailed insights into call center perfor
 ## **Data Visualization (Dashboard)**
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
-[live Dashboard]()
+[live Dashboard](https://app.powerbi.com/groups/me/reports/c312711f-2417-4f4b-93af-5a0869f24ded/0871bc289ba8e87b7b08?experience=power-bi)
 
 ## Dashboard:
 
 Shows visualizations from Call Center Trends :
 
-image
+![image](https://github.com/user-attachments/assets/342e8ca6-a4f3-4a7d-b89b-3f64a004fce0)
+
 
 ## **Insights**
 
