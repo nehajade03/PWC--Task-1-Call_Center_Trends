@@ -1,5 +1,5 @@
  # **PWC Power BI Virtual work experience- Call Center Trends**
-                     ![image](https://github.com/user-attachments/assets/87273912-9101-4962-b9f4-820ce716e31f)
+![image](https://github.com/user-attachments/assets/87273912-9101-4962-b9f4-820ce716e31f)
 
 
 ## **Table of Contents**
