@@ -1,5 +1,6 @@
-**PWC Power BI Virtual work experience- Call Center Trends**
- image
+ # **PWC Power BI Virtual work experience- Call Center Trends**
+![image](https://github.com/user-attachments/assets/0156478e-5fd4-4af1-9319-23a4db043574)
+
 
 **Table of Contents**
 
@@ -37,7 +38,7 @@ The Call Center Trends dataset has been transformed and loaded into Microsoft Po
 
 The dataset contains 10 columns and 5,000 rows of observations.
 
-**Dataset**:
+**Dataset**: [Data set]()
 
 **Data Preparation**
 
