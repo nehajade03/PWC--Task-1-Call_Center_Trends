@@ -1,7 +1,7 @@
-PWC Power BI Virtual work experience- Call Center Trends
+**PWC Power BI Virtual work experience- Call Center Trends**
  image
 
-Table of Contents
+**Table of Contents**
 
     Problem Statement
 
@@ -17,7 +17,7 @@ Table of Contents
 
     Insights
 
-Problem Statement
+**Problem Statement**
 
     Track Customer Satisfaction – Visualize overall satisfaction levels for improvement.
 
@@ -29,7 +29,7 @@ Problem Statement
 
     Enhance Decision-Making – Provide actionable insights via interactive visualizations for better service and operations.
 
-Data source
+**Data source**
 
 Dataset used for this task was presented by PWC and call center trends dataset:
 
@@ -37,9 +37,9 @@ The Call Center Trends dataset has been transformed and loaded into Microsoft Po
 
 The dataset contains 10 columns and 5,000 rows of observations.
 
-Dataset:
+**Dataset**:
 
-Data Preparation
+**Data Preparation**
 
 The data cleaning process in Power Query Editor included the following steps:
 
@@ -49,7 +49,7 @@ The data cleaning process in Power Query Editor included the following steps:
 
     Verified and ensured correct data types for all columns.
 
-Data Analysis
+**Data Analysis**
 
 And then dataset was cleaned and transformed, it was ready to the data modeled.
 
@@ -69,7 +69,7 @@ Average Speed of Answer – The average time taken to answer calls.
 
 These measures are designed to provide detailed insights into call center performance and agent efficiency.
 
-Data analysis(DAX):
+**Data analysis(DAX)**:
 
 answered call = COUNTX(FILTER('Call Center trends','Call Center trends'[Answered (Y/N)] = "Y"), 'Call Center trends'[Answered (Y/N)])
 
@@ -85,17 +85,17 @@ Unanswered Calls = COUNTROWS(FILTER('Call Center trends',TRIM('Call Center trend
 
 Unresolved Calls = COUNTROWS(FILTER('Call Center trends', 'Call Center trends'[Resolved] = "N"))
 
-Data Visualization (Dashboard) :
+**Data Visualization (Dashboard)** :
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-Dashboard:
+**Dashboard**:
 
 Shows visualizations from Call Center Trends :
 
 image
 
-Insights
+**Insights**
 
 1.The dashboard provides several key insights into the call center trends:
 
